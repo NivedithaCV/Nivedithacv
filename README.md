@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on developing new IIRS data interface fir ISIS software
+- 🔭 I’m currently working on developing new IIRS data interface for ISIS software
 
 
